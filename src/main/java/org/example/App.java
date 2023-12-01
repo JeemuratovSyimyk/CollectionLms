@@ -48,6 +48,7 @@ public class App {
 
         Scanner scanner = new Scanner(System.in);
         while (true) {
+
             System.out.println("Меню:");
             System.out.println("1. Сохранить библиотеку");
             System.out.println("2. получить все библиотеки");
